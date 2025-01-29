@@ -1,0 +1,12 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: 0;
+  font-family: "Kanit", serif;
+}
+
+body {
+  min-height: 100vh;
+  width: 100vw;
+  background: linear-gradient(180deg, #1ac04cab 70%, rgba(35, 112, 228, 0.8) 100%);
+}
